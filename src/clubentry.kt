@@ -31,4 +31,4 @@ fun main() {
     println(age)
     println(hasVipPass)
     println(isMember)
-}
+}    
